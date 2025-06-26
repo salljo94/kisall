@@ -1,44 +1,4 @@
-<!DOCTYPE html>
-<html lang="ms">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>OTT Player</title>
-    <style>
-        body {
-            margin: 0;
-            font-family: Arial, sans-serif;
-            background-color: #1a1a1a;
-            color: #fff;
-            height: 100vh;
-            display: flex;
-            flex-direction: column;
-        }
-        .main-menu {
-            flex: 1;
-            display: flex;
-            flex-direction: column;
-            justify-content: space-between;
-            padding: 20px;
-        }
-        .shop-name {
-            position: fixed;
-            bottom: 10px;
-            left: 10px;
-            font-size: 18px;
-            font-weight: bold;
-            color: #ffcc00; /* Warna boleh tukar */
-        }
-    </style>
-</head>
-<body>
-    <div class="main-menu">
-        <h1>Selamat Datang ke OTT Player</h1>
-        <!-- Kandungan menu lain boleh ditambah di sini -->
-        <div class="shop-name">Beli di whatsapp 017 8433 174</div>
-    </div>
-</body>
-</html>
+
 
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml" refresh="1440" max-conn="4" refresh="24" vod_library="https://mokm32.github.io/vod-top-20/,https://vod.pondan.workers.dev/dewanonton.json,https://mokm32.github.io/vodupdatenew/,https://www.dropbox.com/scl/fi/x5hwcfzcii5yzrmivqwjg/RKH-movie.txt?rlkey=43hqbafl9pvf7lbpppk6ubxxm&st=zsor4flu&dl=1"
 
