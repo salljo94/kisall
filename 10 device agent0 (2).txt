@@ -42,14 +42,6 @@
 
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml" refresh="1440" max-conn="4" refresh="24" vod_library="https://mokm32.github.io/vod-top-20/,https://vod.pondan.workers.dev/dewanonton.json,https://mokm32.github.io/vodupdatenew/,https://www.dropbox.com/scl/fi/x5hwcfzcii5yzrmivqwjg/RKH-movie.txt?rlkey=43hqbafl9pvf7lbpppk6ubxxm&st=zsor4flu&dl=1"
 
-#EXTINF:-1 group-title="ORDER ID👉 SHOPEE NeckleNJ " group-logo="https://i.ibb.co/1fKjK3kB/SHOPEE-1.jpg" tvg-id="NeckleNJ" ch-number="100" tvg-name="NeckleNJ" tvg-logo="https://i.ibb.co/1fKjK3kB/SHOPEE-1.jpg", ID ORIGINAL KEDAI SHOPEE NeckleNJ
-https://archive.org/download/2025-01-16-03-39-44/2025-01-16%2003-39-44.mp4
-
-#EXTINF:-1 group-title="ORDER ID👉Website NeckleNJ " group-logo="https://i.ibb.co/1fKjK3kB/SHOPEE-1.jpg" tvg-id="Website NeckleNJ" ch-number="100" tvg-name="Website NeckleNJ" tvg-logo="https://i.ibb.co/1fKjK3kB/SHOPEE-1.jpg", Order ID👉 Website NeckleNJ
-https://archive.org/download/2025-05-20-23-11-14/2025-05-20%2023-11-14.mp4
-
-#EXTINF:-1 group-title="ORDER ID👉Website NeckleNJ " group-logo="https://i.ibb.co/1fKjK3kB/SHOPEE-1.jpg" tvg-id="cara Order dekat Website NeckleNJ" ch-number="100" tvg-name="cara Order dekat Website NeckleNJ" tvg-logo="https://i.ibb.co/1fKjK3kB/SHOPEE-1.jpg", cara Order dekat👉Website NeckleNJ
-https://archive.org/download/2025-05-20-23-18-13/2025-05-20%2023-18-13.mp4
 
 #EXTINF:-1 group-title="JAM UPDATE PLAYLIST" group-logo="https://i.ibb.co/VWkp5b66/warning-sign-gradient-shine-78370-1774.jpg" tvg-id="JAM UPDATE PLAYLIST" ch-number="100" tvg-name="JAM UPDATE PLAYLIST" tvg-logo="https://i.ibb.co/VWkp5b66/warning-sign-gradient-shine-78370-1774.jpg", TENGAH HARI OR MALAM SETIAP HARI
 https://youtu.be/D2rRj74cG00
