@@ -2,25 +2,9 @@
 
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://bit.ly/AstroEpg,https://bit.ly/IndonesiaEpg,https://bit.ly/UnifyEpg,https://bit.ly/RtmEpg,https://bit.ly/SingaporeEpg" refresh="1440" max-conn="4" refresh="24" vod_library="https://mokm32.github.io/vod-top-20/,https://vod.pondan.workers.dev/dewanonton.json,https://mokm32.github.io/vodupdatenew/,https://mokm32.github.io/vod-aseanmovies/"
 
-#EXTINF:-1 group-title="ORDER IDðŸ‘‰ SHOPEE NeckleNJ " group-logo="https://i.ibb.co/1fKjK3kB/SHOPEE-1.jpg" tvg-id="NeckleNJ" ch-number="100" tvg-name="NeckleNJ" tvg-logo="https://i.ibb.co/1fKjK3kB/SHOPEE-1.jpg", ID ORIGINAL KEDAI SHOPEE NeckleNJ
-https://archive.org/download/2025-01-16-03-39-44/2025-01-16%2003-39-44.mp4
-
-#EXTINF:-1 group-title="ORDER IDðŸ‘‰Website NeckleNJ " group-logo="https://i.ibb.co/1fKjK3kB/SHOPEE-1.jpg" tvg-id="Website NeckleNJ" ch-number="100" tvg-name="Website NeckleNJ" tvg-logo="https://i.ibb.co/1fKjK3kB/SHOPEE-1.jpg", Order IDðŸ‘‰ Website NeckleNJ
-https://archive.org/download/2025-05-20-23-11-14/2025-05-20%2023-11-14.mp4
-
-#EXTINF:-1 group-title="ORDER IDðŸ‘‰Website NeckleNJ " group-logo="https://i.ibb.co/1fKjK3kB/SHOPEE-1.jpg" tvg-id="cara Order dekat Website NeckleNJ" ch-number="100" tvg-name="cara Order dekat Website NeckleNJ" tvg-logo="https://i.ibb.co/1fKjK3kB/SHOPEE-1.jpg", cara Order dekatðŸ‘‰Website NeckleNJ
-https://archive.org/download/2025-05-20-23-18-13/2025-05-20%2023-18-13.mp4
-
-#EXTINF:-1 group-title="JAM UPDATE PLAYLIST" group-logo="https://i.ibb.co/VWkp5b66/warning-sign-gradient-shine-78370-1774.jpg" tvg-id="JAM UPDATE PLAYLIST" ch-number="100" tvg-name="JAM UPDATE PLAYLIST" tvg-logo="https://i.ibb.co/VWkp5b66/warning-sign-gradient-shine-78370-1774.jpg", Tekan Video InI
-#https://youtu.be/D2rRj74cG00
-https://archive.org/download/red-and-black-modern-opening-profile-youtube-intro-video/Red%20and%20Black%20Modern%20Opening%20Profile%20Youtube%20Intro%20Video.mp4
-================================================
-
 ############## 3 beradik #################################
 
 #EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://i.ibb.co/mrNKFM6V/Untitled-design.png"
-
-
 
 #EXTINF:-1 group-title="3 beradik" tvg-id="105.astro" tvg-logo="https://get.perfecttv.net/logo/ria.png" ,119 Ria D
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
