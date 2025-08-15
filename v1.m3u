@@ -859,7 +859,7 @@ https://get.perfecttv.net/mutv.mpd
 
 
 http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=987846&extension=ts
-#EXTINF:-1 tvg-id="BEINSPORTS1" group-logo="https://i.ibb.co/mrNKFM6V/Untitled-design.png" tvg-name="AR BEIN SPORTS 1" tvg-logo="https://get.perfecttv.net/logo/bein1.png" group-title="BEIN SPORTS",AR - BEIN SPORTS 1 
+#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://i.ibb.co/4RqVBLHg/IMG-20250806-WA0003.jpg" tvg-name="AR BEIN SPORTS 1" tvg-logo="https://get.perfecttv.net/logo/bein1.png" group-title="BEIN SPORTS",AR - BEIN SPORTS 1 
 
 http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=987845&extension=ts
 #EXTINF:-1 tvg-id="BEINSPORTS2" tvg-name="AR BEIN SPORTS 2" tvg-logo="https://get.perfecttv.net/logo/bein1.png" group-title="BEIN SPORTS",AR - BEIN SPORTS 2 
@@ -908,8 +908,7 @@ http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=987832&ext
 ############################################  SPORT BACKUP  ###################################################################
 ########################################################################################################################
 
-#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://i.ibb.co/mrNKFM6V/Untitled-design.png" 
-
+#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://i.ibb.co/4RqVBLHg/IMG-20250806-WA0003.jpg"
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
